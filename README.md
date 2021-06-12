@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**lucakiebel/lucakiebel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Full-Stack Developer from Münster, Germany.
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ Just got a new Job (CTO [@nibyou](https://github.com/nibyou))
+- 🔜 We will Open Source a lot of our Packages!
+
+##### BIO
+
+- 🏢 I'm currently working at **[@nibyou](https://github.com/nibyou)**
+- ⚙️ I mostly use: `.js`, `.ts`, `.html`, `.css`, `.git`
+- 🌍 I'm mostly active within the **JavaScript Community**, especially on [StackOverflow](https://stackoverflow.com/users/6634591/luca-kiebel)
+- 🌱 Learning all about **Crypto**
+- 📫 Reach me: [twitter.com/lucakiebel](https://twitter.com/lucakiebel), [luca-kiebel.de](https://luca-kiebel.de)
+- ⚡️ Fun fact: I love skiiing ⛷️
