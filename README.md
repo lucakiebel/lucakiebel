@@ -13,5 +13,6 @@
 - ⚙️ I mostly use: `.js`, `.ts`, `.html`, `.css`, `.git`
 - 🌍 I'm mostly active within the **JavaScript Community**, especially on [StackOverflow](https://stackoverflow.com/users/6634591/luca-kiebel)
 - 🌱 Learning all about **Crypto**
-- 📫 Reach me: [twitter.com/lucakiebel](https://twitter.com/lucakiebel), [luca-kiebel.de](https://luca-kiebel.de)
+- 📫 Reach me: [twitter.com/lucakiebel](https://twitter.com/lucakiebel)
+- 👨‍💻 My projects: [luca-kiebel.de](https://luca-kiebel.de#porjects)
 - ⚡️ Fun fact: I love skiiing ⛷️
