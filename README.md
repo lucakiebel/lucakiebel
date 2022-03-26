@@ -2,7 +2,7 @@
 
 #### I'm a Full-Stack (but mostly Web-Backend) Developer from Münster, Germany.
 
-##### Current Projects
+##### CURRENT PROJECTS
 
 - 🎮 Warframe.js: [Repo](https://github.com/WFCD/Warframe.js) - [NPM](https://npmjs.com/warframe.js)
 - ✨ nibyou/api: [Repo](https://github.com/nibyou/api) - [Homepage](https://nibyou.com)
