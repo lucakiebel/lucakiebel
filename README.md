@@ -9,7 +9,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **[@nibyou](https://github.com/nibyou)** and **[@adessoSE](https://github.com/adessoSE)**
+- 🏢 I'm currently working at **[@nibyou](https://github.com/nibyou)** and **[Audoora](https://audoora.de)**
 - ⚙️ I mostly use: `.js`, `.ts`, `.html`, `.css`, `.git`
 - 🌍 I'm mostly active within the **JavaScript Community**, especially on [StackOverflow](https://stackoverflow.com/users/6634591/luca-kiebel)
 - 🌱 Learning all about **Cryptography** and **GraphQL**
